@@ -17,8 +17,11 @@
   },
   "dependencies": {
     "apollo-boost": "^0.4.9",
+    "apollo-server-express": "^2.25.2",
     "graphql": "^15.5.3",
     "graphql-tag": "^2.12.5",
+    "install": "^0.13.0",
+    "npm": "^7.24.0",
     "web-vitals": "^2.1.0"
   }
 }

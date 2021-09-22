@@ -11,15 +11,10 @@ export const QUERY_ME = gql`
                 bookId
                 title
                 description
-                author
+                authors
                 image
                 url
             }
         }
     }
-`;
-
-export const QUERY_DELETE_BOOK = gql`
-
-
 `;
